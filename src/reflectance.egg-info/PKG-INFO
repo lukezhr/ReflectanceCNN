@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: reflectance
+Version: 1.0.0
+Summary: Thin film characterization using reflectance spectroscopy
+Author: Hongrui Zhang
+Requires-Python: >=3.8
+Requires-Dist: numpy>=1.21.0
+Requires-Dist: torch>=1.10.0
+Requires-Dist: scipy>=1.7.0
+Requires-Dist: scikit-learn>=1.0.0
+Requires-Dist: pandas>=1.3.0
+Requires-Dist: pyDOE>=0.3.8

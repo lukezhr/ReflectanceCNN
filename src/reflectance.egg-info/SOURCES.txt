@@ -1,0 +1,10 @@
+setup.py
+src/reflectance/TaucLorentz.py
+src/reflectance/ThinFilmClasses.py
+src/reflectance/__init__.py
+src/reflectance/model_eval_pkg.py
+src/reflectance.egg-info/PKG-INFO
+src/reflectance.egg-info/SOURCES.txt
+src/reflectance.egg-info/dependency_links.txt
+src/reflectance.egg-info/requires.txt
+src/reflectance.egg-info/top_level.txt

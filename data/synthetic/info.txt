@@ -1,0 +1,1 @@
+n_samples: 100, n_points: 500, noise_level: 0.01, param_ranges: [(1e-06, 100), (3.2, 7), (0.5, 3.2), (1, 10), (10, 150)]
